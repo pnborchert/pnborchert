@@ -6,7 +6,7 @@
 
 ### My research interests:
 - Natural Language Processing (NLP)
-- Information Extraction
+- AI for Math
 - Multilingual NLP
 - Responsible AI
 
